@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**pjguitar15/pjguitar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Philcob, a passionate Frontend Developer with a love for coding and creating awesome things. 🚀
 
-Here are some ideas to get you started:
+#### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on TP Devotion Tech app
+- 📫 How to reach me: https://philcodes-portfolio.vercel.app/
+
+#### 🚀 My Skills
+
+- **Languages:** [Test, test]
+- **Frameworks & Libraries:** [List of Frameworks/Libraries]
+- **Tools & Technologies:** [List of Tools and Technologies]
+
+#### 🌟 Achievements
+
+- [Any notable achievements or certifications]
+
+#### 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=issues&count_private=true)
+
+#### 📫 Let's Connect!
+
+- [LinkedIn](Your LinkedIn Profile Link)
+- [Twitter](Your Twitter Profile Link)
+- [Portfolio](Your Portfolio/Website Link)
+
+#### ❤️ Support
+
+If you find my work helpful or interesting, consider buying me a coffee: [Buy Me a Coffee](Your Buy Me a Coffee Link)
+
+Thanks for stopping by! 😊
