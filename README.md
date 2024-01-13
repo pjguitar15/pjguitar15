@@ -5,30 +5,17 @@ I'm Philcob, a passionate Frontend Developer with a love for coding and creating
 #### 👨‍💻 About Me
 
 - 🔭 I’m currently working on TP Devotion Tech app
-- 📫 How to reach me: https://philcodes-portfolio.vercel.app/
+- 📫 How to reach me: philcobsuzuki@gmail.com
 
 #### 🚀 My Skills
 
-- **Languages:** [Test, test]
-- **Frameworks & Libraries:** [List of Frameworks/Libraries]
-- **Tools & Technologies:** [List of Tools and Technologies]
-
-#### 🌟 Achievements
-
-- [Any notable achievements or certifications]
-
-#### 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=issues&count_private=true)
+- **Languages:** Javascript, TypeScript
+- **Frameworks & Libraries:** ReactJS, NextJS, ExpressJS, TailwindCSS, Bootstrap 5
+- **Tools & Technologies:** HTML&CSS, NodeJS, MongoDB, SQL, Firebase, Wordpress, Postman, Github, VSCode, Photoshop, Illustrator, Figma, AdobeXD
 
 #### 📫 Let's Connect!
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Portfolio](Your Portfolio/Website Link)
-
-#### ❤️ Support
-
-If you find my work helpful or interesting, consider buying me a coffee: [Buy Me a Coffee](Your Buy Me a Coffee Link)
+- https://www.linkedin.com/in/philcob-suzuki-josol-387553139/
+- https://philcodes-portfolio.vercel.app/
 
 Thanks for stopping by! 😊
