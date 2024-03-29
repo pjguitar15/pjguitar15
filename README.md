@@ -5,6 +5,7 @@ I'm Philcob, a passionate Frontend Developer with a love for coding and creating
 #### 👨‍💻 About Me
 
 - 🔭 I’m currently working on my own blog app
+  - https://react-blog-app-sand.vercel.app/ here's my progress
 - 📫 How to reach me: philcobsuzuki@gmail.com
 
 #### 🚀 My Skills
