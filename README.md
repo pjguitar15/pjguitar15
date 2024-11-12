@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Philcob, a passionate Frontend Developer with a love for coding and creating awesome things. 🚀
+I'm Philcob, a Software Engineer.
 
 #### 👨‍💻 About Me
 - 📫 How to reach me: philcobsuzuki@gmail.com
