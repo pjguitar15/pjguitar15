@@ -8,7 +8,7 @@ I'm Philcob, a Software Engineer.
 #### 🚀 My Skills
 
 - **Languages:** Javascript, TypeScript
-- **Frameworks & Libraries:** ReactJS, NextJS, ExpressJS, TailwindCSS, Bootstrap 5
+- **Frameworks & Libraries:** ReactJS, NextJS, NestJS, ExpressJS, TailwindCSS, Bootstrap 5
 - **Tools & Technologies:** HTML&CSS, NodeJS, MongoDB, SQL, Firebase, Wordpress, Postman, Github, VSCode, Photoshop, Illustrator, Figma, AdobeXD
 
 #### 📫 Let's Connect!
