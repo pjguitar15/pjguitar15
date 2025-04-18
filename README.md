@@ -35,6 +35,12 @@ Let's build something great together. 🚀
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
+## My Stats 🔥
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pjguitar15&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjguitar15&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjguitar15&show_icons=true&theme=dark&hide_border=true)
+
 #### 📫 Let's Connect!
 
 - https://www.linkedin.com/in/philcob-suzuki-josol-387553139/
