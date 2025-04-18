@@ -2,8 +2,15 @@
 
 I'm Philcob, a Software Engineer.
 
-#### 👨‍💻 About Me
+## 👋 About Me
+
+Hi! I'm a Software Engineer currently working under [CareerTeam](https://careerteam.com/). I'm based in **Cavite, Philippines**, and passionate about building **high-quality, scalable, and user-focused web applications**.
+
+Whether you're a business looking to enhance your digital presence or a team in need of reliable development support — I'm committed to delivering clean, efficient, and future-ready solutions tailored to your goals.
+
+Let's build something great together. 🚀
 - 📫 How to reach me: philcobsuzuki@gmail.com
+
 
 ## ⚡ Technologies
 
